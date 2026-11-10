@@ -315,6 +315,7 @@ body {
     border-radius: 6px;
     color: var(--text-main);
     font-family: inherit;
+    resize: none;
 }
 
 .form-group input:focus, .form-group textarea:focus {
